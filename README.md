@@ -8,14 +8,19 @@
 
 ####`stat`
 
-    stardate          nov 30 2015
+    stardate          dec 13 2015
     design            completed
     specification     wip
     documentation     wip
     libclc   (C)      wip - pending alpha.0 release
-    libclc-g (go)     wip - pending port
+    libclc-g (go)     wip - pending alpha.0 release
     libclc-j (Java)   tbd 
 
 ####`about`
 
-[TODO]
+[TODO spec and lang-invariant doc]
+
+####`ref-impl`
+
+* [C11](https://github.com/alphazero/libclc)
+* [Go](https://github.com/alphazero/libclc-go)
